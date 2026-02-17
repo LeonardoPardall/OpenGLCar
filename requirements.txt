@@ -1,0 +1,6 @@
+PyOpenGL
+PyOpenGL-accelerate
+glfw
+numpy
+pyrr
+Pillow
