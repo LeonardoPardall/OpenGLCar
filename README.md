@@ -28,10 +28,8 @@ pip install -r requirements.txt
 ```
 
 ### Run
-From the project root, run the main script. If your code is in the `cg_proj` folder (renamed from `src`):
 
 ```bash
-cd cg_proj
 python main.py
 ```
 
